@@ -129,7 +129,7 @@ public class ScreenshotRecorder {
 
     private ScaleUser getTestUser() {
         ScaleUser user = new ScaleUser();
-        user.setUserName("Test");
+        user.setUserName("test");
         user.setBodyHeight(180);
         user.setInitialWeight(80.0f);
         user.setGoalWeight(60.0f);
